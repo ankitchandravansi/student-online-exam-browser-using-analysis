@@ -163,33 +163,3 @@ Browser usage varies slightly across different exam subjects.
 
 This project demonstrates how Python can be used for Exploratory Data Analysis to extract meaningful insights from data. Using Pandas for data handling and Matplotlib/Seaborn for visualization, browser usage patterns during online exams were successfully analyzed. This type of analysis can help institutions improve the compatibility and performance of online examination systems.
 
-
----
-
-🔹 Step 9: Future Scope
-
-Use real-world or large-scale datasets
-
-Include more browsers and performance metrics
-
-Apply machine learning for predictive analysis
-
-
-
----
-
-🔹 Repository Contents
-
-browser_usage.csv – Dataset
-
-browser_analysis.py – Python EDA code
-
-Output graph screenshots
-
-
-📊 Extra analysis
-
-📘 PDF project report
-
-
-bana dunga — bas bol bhai 💪
