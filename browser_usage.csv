@@ -1,0 +1,16 @@
+Student_ID,Browser,Exam_Name,Duration_Minutes
+1,Chrome,Maths,60
+2,Chrome,Physics,70
+3,Firefox,Maths,55
+4,Edge,Chemistry,50
+5,Chrome,Chemistry,65
+6,Firefox,Physics,60
+7,Edge,Maths,45
+8,Chrome,Physics,75
+9,Chrome,Maths,80
+10,Firefox,Chemistry,55
+11,Edge,Physics,50
+12,Chrome,Maths,70
+13,Firefox,Maths,60
+14,Chrome,Chemistry,68
+15,Edge,Maths,48
